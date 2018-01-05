@@ -3,7 +3,7 @@ export = <config.Environments>{
      * Development Environment
      * ------------------------------------------
      *
-     * This is the local development environment, which is used by the developoers
+     * This is the local development environment, which is used by the developers
      */
     development: {
         database: {
@@ -63,7 +63,7 @@ export = <config.Environments>{
      * Production Environment
      * ------------------------------------------
      *
-     * This configuration will be used by the cloud servers. You are abel to override
+     * This configuration will be used by the cloud servers. You are able to override
      * them with the local cloud environment variable to make it even more configurable.
      */
     production: {
